@@ -1,0 +1,6 @@
+
+# ignore file
+.idea
+
+# ignore json file
+amazon.json
